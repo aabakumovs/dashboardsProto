@@ -1,0 +1,5 @@
+[
+	{"label":"pie-chart", "type":"pie", "dbname":"pie"}, 
+	{"label":"donut-chart", "type":"donut", "dbname":"donut"}, 
+	{"label":"bar-chart","type":"bar", "dbname":"bar"}
+]
