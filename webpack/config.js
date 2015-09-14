@@ -33,7 +33,7 @@ var config = {
   output: {
     path: path.resolve(pkg.config.buildDir),
     publicPath: '/',
-    filename: 'build.js',
+    filename: 'build/build.js',
     pathinfo: false
   },
   module: {
