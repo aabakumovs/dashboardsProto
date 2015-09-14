@@ -1,9 +1,0 @@
-{"name":"demo","hostname":"ubuntu","pid":22802,"level":30,"event":{"time":1441728903021},"msg":"","time":"2015-09-08T16:15:03.021Z","v":0}
-{"name":"demo","hostname":"ubuntu","pid":22802,"level":30,"event":{"time":1441728908338},"msg":"","time":"2015-09-08T16:15:08.339Z","v":0}
-{"name":"demo","hostname":"ubuntu","pid":23063,"level":30,"event":{"data":"mockData","type":"message","time":1441729403759},"msg":"","time":"2015-09-08T16:23:23.759Z","v":0}
-{"name":"demo","hostname":"ubuntu","pid":23086,"level":30,"event":{"data":"mockData","type":"message","time":1441729550919},"msg":"","time":"2015-09-08T16:25:50.920Z","v":0}
-{"name":"demo","hostname":"ubuntu","pid":23086,"level":50,"event":{"data":"mockData","type":"error","time":1441729604169},"msg":"","time":"2015-09-08T16:26:44.170Z","v":0}
-{"name":"demo","hostname":"ubuntu","pid":23111,"level":30,"event":{"data":"mockData","type":"message","time":1441729647099},"msg":"","time":"2015-09-08T16:27:27.100Z","v":0}
-{"name":"demo","hostname":"ubuntu","pid":23111,"level":50,"event":{"data":"mockData","type":"error","time":1441729650023},"msg":"","time":"2015-09-08T16:27:30.023Z","v":0}
-{"name":"demo","hostname":"ubuntu","pid":23308,"level":30,"event":{"data":"mockData","type":"message","time":1441730450997},"msg":"","time":"2015-09-08T16:40:50.998Z","v":0}
-{"name":"demo","hostname":"ubuntu","pid":23308,"level":30,"event":{"data":"mockData","type":"message","time":1441730473524},"msg":"","time":"2015-09-08T16:41:13.524Z","v":0}
