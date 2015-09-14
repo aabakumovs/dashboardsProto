@@ -25,6 +25,7 @@
     "babel-loader": "^5.3.2",
     "babel-plugin-rewire": "^0.1.22",
     "babel-runtime": "^5.8.24",
+    "d3": "^3.5.6",
     "extract-text-webpack-plugin": "^0.8.2",
     "file-loader": "^0.8.4",
     "html-loader": "^0.3.0",
